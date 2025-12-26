@@ -1,6 +1,6 @@
 title: "HyerimGwon"
 author: "Hyerim"
-description: "성격이 좋았다가 나빴다가"
+description: ""
 permalink: /:title/
 lang: "ko"
 excerpt_separator: "\n\n\n"
@@ -19,6 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "archive.html", sidebaricon: home}
+  - {file: "about.markdown", sidebaricon: home}
   - {file: "README.md", sidebaricon: address-card}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
