@@ -90,7 +90,8 @@ categories: media
 
 [![IMG-0646.jpg](https://i.postimg.cc/7LYbdZ54/IMG-0646.jpg)](https://postimg.cc/fVpw0Z7q) <br>
 참고로 이 사진은 딱 2주 뒤 사진인데, 5일과 똑같은 옷을 입고 있다. <br>
-냉동실에서 생활하는 건지 옷 상태가 그대로여서 솔직히 신기했다.
+냉동실에서 생활하는 건지 옷 상태가 그대로여서 솔직히 신기했다. <br>
+그렇게 본가에 내려가버려서 별로 만나지도 못했다고 한다...
 
 [![IMG-0677.jpg](https://i.postimg.cc/P5K5Wn2y/IMG-0677.jpg)](https://postimg.cc/zybNN6mH) <br>
 클콘!<br>
